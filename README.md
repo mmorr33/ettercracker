@@ -1,5 +1,5 @@
 # ettercracker
-A simple deobfuscation Tool For Excel/4.0 Maldocs identified during Qakbot thread-hijacking campaign (May 2021)
+A simple deobfuscation Tool For Excel/4.0 Maldocs
 
 1. Install Required Libraries
 ----------------------------------------
